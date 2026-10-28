@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Smartphone avec QR code d'eSIM et réglages de lignes cellulaires, à faire avant l'embarquement">
+<rect width="1200" height="420" fill="#0B2239"/>
+<g fill="#14587A" opacity=".5"><circle cx="1040" cy="70" r="150"/><circle cx="150" cy="380" r="170"/></g>
+<rect x="470" y="30" width="260" height="360" rx="34" fill="#F2F6F8"/>
+<rect x="486" y="50" width="228" height="320" rx="22" fill="#0B2239"/>
+<rect x="570" y="58" width="60" height="10" rx="5" fill="#2A5470"/>
+<g transform="translate(540 96)"><rect width="120" height="120" rx="8" fill="#F2F6F8"/>
+<g fill="#0B2239"><rect x="10" y="10" width="30" height="30"/><rect x="80" y="10" width="30" height="30"/><rect x="10" y="80" width="30" height="30"/>
+<rect x="50" y="14" width="10" height="10"/><rect x="62" y="30" width="10" height="10"/><rect x="50" y="50" width="22" height="10"/><rect x="84" y="52" width="10" height="22"/><rect x="50" y="76" width="10" height="26"/><rect x="72" y="88" width="24" height="10"/><rect x="100" y="84" width="10" height="26"/><rect x="14" y="52" width="26" height="10"/></g>
+<g fill="#F2F6F8"><rect x="17" y="17" width="16" height="16"/><rect x="87" y="17" width="16" height="16"/><rect x="17" y="87" width="16" height="16"/></g>
+<g fill="#0B2239"><rect x="21" y="21" width="8" height="8"/><rect x="91" y="21" width="8" height="8"/><rect x="21" y="91" width="8" height="8"/></g></g>
+<g font-family="system-ui,'Instrument Sans',Arial,sans-serif" font-size="14" fill="#DDEAF1">
+<rect x="504" y="240" width="192" height="40" rx="8" fill="#14587A"/><text x="518" y="265" font-weight="600">eSIM escales · Données</text>
+<rect x="504" y="288" width="192" height="40" rx="8" fill="#123350"/><text x="518" y="313">SIM maison · Données coupées</text>
+</g>
+<g font-family="'IBM Plex Mono',ui-monospace,Menlo,monospace" font-size="20" fill="#9FE0F5" letter-spacing="2">
+<text x="90" y="150">1 · ACHETER</text><text x="90" y="200">2 · SCANNER LE QR CODE</text><text x="90" y="250">3 · NOMMER LES LIGNES</text><text x="90" y="300">4 · COUPER LE ROAMING</text>
+</g>
+<g font-family="system-ui,'Instrument Sans',Arial,sans-serif" font-size="22" fill="#FF8A57" font-weight="700"><text x="800" y="200">À faire chez soi,</text><text x="800" y="232">en WiFi stable.</text></g>
+</svg>

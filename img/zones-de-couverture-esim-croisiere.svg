@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Trois positions d'un navire : à quai, près des côtes, en pleine mer, avec la disponibilité d'une eSIM classique et du WiFi du bord">
+<rect width="1200" height="420" fill="#0B2239"/>
+<rect y="250" width="1200" height="170" fill="#0E5A78"/>
+<path d="M0 250 L0 190 Q60 160 110 196 L160 250 Z" fill="#06233A"/>
+<rect x="64" y="110" width="7" height="82" fill="#CFE6F0"/>
+<circle cx="67" cy="108" r="6" fill="#FF8A57"/>
+<g stroke="#2A5470" stroke-width="2" stroke-dasharray="4 8"><path d="M400 40 V250"/><path d="M800 40 V250"/></g>
+<g font-family="'IBM Plex Mono',ui-monospace,Menlo,monospace" font-size="20" fill="#9FE0F5" letter-spacing="2">
+<text x="200" y="44" text-anchor="middle">À QUAI</text>
+<text x="600" y="44" text-anchor="middle">PRÈS DES CÔTES</text>
+<text x="1000" y="44" text-anchor="middle">PLEINE MER</text>
+</g>
+<g id="ship">
+<path d="M-70 0 H70 L56 20 H-56 Z" fill="#F2F6F8"/>
+<rect x="-52" y="-22" width="104" height="22" fill="#E3ECF1"/>
+<rect x="-30" y="-40" width="60" height="18" fill="#F2F6F8"/>
+<rect x="-6" y="-60" width="16" height="20" fill="#E8541E"/>
+<rect x="-56" y="12" width="112" height="5" fill="#E8541E"/>
+</g>
+<use href="#ship" x="210" y="262"/>
+<use href="#ship" x="610" y="262"/>
+<use href="#ship" x="1010" y="262"/>
+<g fill="none" stroke="#9FE0F5" stroke-width="4" stroke-linecap="round">
+<path d="M130 160 A60 60 0 0 1 130 224" />
+<path d="M150 140 A100 100 0 0 1 150 244" opacity=".7"/>
+<path d="M510 160 A60 60 0 0 1 510 224" opacity=".45" stroke-dasharray="10 12"/>
+</g>
+<g font-family="system-ui,'Instrument Sans',Arial,sans-serif" font-size="22" font-weight="600">
+<text x="200" y="340" text-anchor="middle" fill="#7EE2B8">eSIM : oui</text>
+<text x="600" y="340" text-anchor="middle" fill="#FFC857">eSIM : variable</text>
+<text x="1000" y="340" text-anchor="middle" fill="#FF9C85">eSIM classique : non</text>
+</g>
+<g font-family="system-ui,'Instrument Sans',Arial,sans-serif" font-size="20" fill="#DDEAF1">
+<text x="200" y="378" text-anchor="middle">WiFi du bord : oui</text>
+<text x="600" y="378" text-anchor="middle">WiFi du bord : oui</text>
+<text x="1000" y="378" text-anchor="middle">WiFi du bord : oui</text>
+</g>
+</svg>

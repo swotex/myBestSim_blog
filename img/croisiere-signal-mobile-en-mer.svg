@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Paquebot qui s'éloigne d'une côte : le signal mobile s'affaiblit avec la distance, le WiFi du bord passe par satellite">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#071A2B"/><stop offset="1" stop-color="#1B6A8C"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14587A"/><stop offset="1" stop-color="#06233A"/></linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#sky)"/>
+<circle cx="980" cy="300" r="84" fill="#E8541E" opacity=".92"/>
+<rect y="400" width="1200" height="230" fill="url(#sea)"/>
+<path d="M0 400 L0 322 Q70 284 132 328 L196 400 Z" fill="#06233A"/>
+<rect x="110" y="250" width="8" height="92" fill="#CFE6F0"/>
+<circle cx="114" cy="248" r="7" fill="#FF8A57"/>
+<g fill="none" stroke="#9FE0F5" stroke-width="5" stroke-linecap="round">
+<path d="M171 210 A70 70 0 0 1 171 290" opacity=".95"/>
+<path d="M229 170 A140 140 0 0 1 229 330" opacity=".75"/>
+<path d="M302 118 A230 230 0 0 1 302 382" opacity=".5" stroke-dasharray="14 14"/>
+<path d="M392 55 A340 340 0 0 1 392 445" opacity=".25" stroke-dasharray="6 18"/>
+</g>
+<g fill="#F2F6F8">
+<path d="M690 420 H1040 L1012 462 H722 Z"/>
+<rect x="730" y="384" width="270" height="36" fill="#E3ECF1"/>
+<rect x="765" y="352" width="200" height="32" fill="#F2F6F8"/>
+<rect x="805" y="324" width="120" height="28" fill="#E3ECF1"/>
+</g>
+<rect x="722" y="442" width="290" height="8" fill="#E8541E"/>
+<rect x="850" y="288" width="34" height="36" fill="#E8541E"/>
+<rect x="850" y="300" width="34" height="7" fill="#F2F6F8"/>
+<g fill="#0B2239" opacity=".75">
+<circle cx="752" cy="402" r="4"/><circle cx="780" cy="402" r="4"/><circle cx="808" cy="402" r="4"/><circle cx="836" cy="402" r="4"/><circle cx="864" cy="402" r="4"/><circle cx="892" cy="402" r="4"/><circle cx="920" cy="402" r="4"/><circle cx="948" cy="402" r="4"/><circle cx="976" cy="402" r="4"/>
+<circle cx="790" cy="368" r="4"/><circle cx="820" cy="368" r="4"/><circle cx="850" cy="368" r="4"/><circle cx="880" cy="368" r="4"/><circle cx="910" cy="368" r="4"/><circle cx="940" cy="368" r="4"/>
+</g>
+<path d="M938 324 Q938 300 962 300" fill="none" stroke="#F2F6F8" stroke-width="4"/>
+<circle cx="965" cy="298" r="5" fill="#FF8A57"/>
+<path d="M968 296 L1030 150" stroke="#9FE0F5" stroke-width="3" stroke-dasharray="6 8" fill="none"/>
+<g transform="translate(1042 128)"><rect x="-12" y="-7" width="24" height="14" rx="2" fill="#CFE6F0"/><rect x="-34" y="-5" width="18" height="10" fill="#9FE0F5"/><rect x="16" y="-5" width="18" height="10" fill="#9FE0F5"/></g>
+<g fill="none" stroke="#9FE0F5" stroke-width="3" opacity=".55">
+<path d="M0 470 Q60 458 120 470 T240 470 T360 470 T480 470 T600 470 T720 470 T840 470 T960 470 T1080 470 T1200 470"/>
+<path d="M0 520 Q80 506 160 520 T320 520 T480 520 T640 520 T800 520 T960 520 T1120 520 T1280 520"/>
+<path d="M0 576 Q100 560 200 576 T400 576 T600 576 T800 576 T1000 576 T1200 576"/>
+</g>
+</svg>
